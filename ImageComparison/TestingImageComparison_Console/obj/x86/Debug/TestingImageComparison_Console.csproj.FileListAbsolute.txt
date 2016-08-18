@@ -1,0 +1,6 @@
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\TestingImageComparison_Console\bin\Debug\TestingImageComparison_Console.exe
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\TestingImageComparison_Console\bin\Debug\TestingImageComparison_Console.pdb
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\TestingImageComparison_Console\bin\Debug\XnaFan.ImageComparison.dll
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\TestingImageComparison_Console\bin\Debug\XnaFan.ImageComparison.pdb
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\TestingImageComparison_Console\obj\x86\Debug\TestingImageComparison_Console.exe
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\TestingImageComparison_Console\obj\x86\Debug\TestingImageComparison_Console.pdb

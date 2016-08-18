@@ -1,0 +1,17 @@
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\bin\Debug\ImageComparisonWinForm.exe.config
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\bin\Debug\ImageComparisonWinForm.exe
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\bin\Debug\ImageComparisonWinForm.pdb
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\obj\Debug\ImageComparisonWinForm.csprojResolveAssemblyReference.cache
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\obj\Debug\ImageComparisonWinForm.Form1.resources
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\obj\Debug\ImageComparisonWinForm.Properties.Resources.resources
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\obj\Debug\ImageComparisonWinForm.csproj.GenerateResource.Cache
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\obj\Debug\ImageComparisonWinForm.exe
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\obj\Debug\ImageComparisonWinForm.pdb
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\bin\Debug\XnaFan.ImageComparison.dll
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\bin\Debug\XnaFan.ImageComparison.pdb
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\bin\Debug\SharpZipLib.dll
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\bin\Debug\Interop.WMPLib.dll
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\obj\Debug\Interop.WMPLib.dll
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWinForm\obj\Debug\ImageComparisonWinForm.csproj.ResolveComReference.cache

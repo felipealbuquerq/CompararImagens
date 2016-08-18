@@ -1,0 +1,7 @@
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ConsoleComparison\bin\Debug\ConsoleImageComparison.exe
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ConsoleComparison\bin\Debug\ConsoleImageComparison.pdb
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ConsoleComparison\bin\Debug\XnaFan.ImageComparison.dll
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ConsoleComparison\bin\Debug\XnaFan.ImageComparison.pdb
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ConsoleComparison\obj\x86\Debug\ConsoleComparison.csprojResolveAssemblyReference.cache
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ConsoleComparison\obj\x86\Debug\ConsoleImageComparison.exe
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ConsoleComparison\obj\x86\Debug\ConsoleImageComparison.pdb

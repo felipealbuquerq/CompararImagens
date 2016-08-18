@@ -1,0 +1,14 @@
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWpfGui\bin\Debug\ImageComparisonWpfGui.exe
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWpfGui\bin\Debug\ImageComparisonWpfGui.pdb
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWpfGui\bin\Debug\XnaFan.ImageComparison.dll
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWpfGui\bin\Debug\XnaFan.ImageComparison.pdb
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.csprojResolveAssemblyReference.cache
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\MainWindow.baml
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\MainWindow.g.cs
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\App.g.cs
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui_MarkupCompile.cache
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.g.resources
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.Properties.Resources.resources
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.csproj.GenerateResource.Cache
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.exe
+C:\Users\TAAdmin\Downloads\ImageComparisonSolution_1.6\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.pdb
